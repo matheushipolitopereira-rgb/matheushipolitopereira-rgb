@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=matheushipolitopereiracolor=006bed)
+![](https://komarev.com/ghpvc/?username=matheushipolitopereira&color=006bed)
 
 ## Sobre mim
 
