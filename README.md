@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=matheushipolitopereira&color=006bed)
+![](https://komarev.com/ghpvc/?username=matheushipolitopereira-rgb&color=006bed)
 
 ## Sobre mim
 
@@ -45,7 +45,7 @@
 
 <br/>
 
-<a href="https://github.com/matheushipolitopereira" title="Perfil do matheus">
+<a href="https://github.com/matheushipolitopereira-rgb" title="Perfil do matheus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheushipolitopereira&theme=dracula&show_icons=true" />
 </a>
 
@@ -53,4 +53,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-matheus.hipolito.pereira@escola.pr.gov.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:matheus.hipolito.pereira@escolapr.gov.br)
-[![GitHub](https://img.shields.io/github/followers/matheushipolitopereira?label=follow&style=social)]("https://github.com/matheushipolitopereira"LINK-DO-SEU-GITHUB)
+[![GitHub](https://img.shields.io/github/followers/matheushipolitopereira-rgb?label=follow&style=social)](https://github.com/matheushipolitopereira-rgb)
