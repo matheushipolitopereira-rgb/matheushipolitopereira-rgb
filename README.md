@@ -53,4 +53,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-matheus.hipolito.pereira@escola.pr.gov.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:matheus.hipolito.pereira@escolapr.gov.br)
-[![GitHub](https://img.shields.io/github/followers/matheushipolitopereira?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub](https://img.shields.io/github/followers/matheushipolitopereira?label=follow&style=social)]("https://github.com/matheushipolitopereira"LINK-DO-SEU-GITHUB)
